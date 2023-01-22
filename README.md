@@ -7,6 +7,6 @@ Your Project description goes here
 Features of the platform
 
 ## Team members
-- Ahmed Rebei @ahmedrebei
+- Victor Vasconcelos @v-vasco
 - Philippe Bertrand @philippebertrand22
 - person @person
