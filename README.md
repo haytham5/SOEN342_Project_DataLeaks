@@ -9,4 +9,6 @@ Features of the platform
 ## Team members
 - Victor Vasconcelos @v-vasco
 - Philippe Bertrand @philippebertrand22
+- Vithujanan Vigneswaran @Houdini29
 - person @person
+
