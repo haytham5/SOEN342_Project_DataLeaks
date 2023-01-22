@@ -8,4 +8,5 @@ Features of the platform
 
 ## Team members
 - Ahmed Rebei @ahmedrebei
+- Philippe Bertrand @philippebertrand22
 - person @person
