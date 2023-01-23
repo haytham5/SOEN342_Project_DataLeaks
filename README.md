@@ -12,3 +12,4 @@ Features of the platform
 - Vithujanan Vigneswaran @Houdini29
 - person @person
 - Hatham Hnine @haytham5
+- Kevin de Oliveira ]@kdeoliveira](https://github.com/kdeoliveira)
