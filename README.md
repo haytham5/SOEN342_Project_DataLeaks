@@ -11,5 +11,5 @@ Features of the platform
 - Philippe Bertrand @philippebertrand22
 - Vithujanan Vigneswaran @Houdini29
 - Nusrath Zaman @nusrath-z
-- Hatham Hnine @haytham5
+- Haytham Hnine @haytham5
 - Kevin de Oliveira [@kdeoliveira](https://github.com/kdeoliveira)
