@@ -10,6 +10,6 @@ Features of the platform
 - Victor Vasconcelos @v-vasco
 - Philippe Bertrand @philippebertrand22
 - Vithujanan Vigneswaran @Houdini29
-- person @person
+- Nusrath Zaman – @nusrath-z
 - Hatham Hnine @haytham5
 - Kevin de Oliveira [@kdeoliveira](https://github.com/kdeoliveira)
