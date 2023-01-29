@@ -1,10 +1,11 @@
-# SOEN342_Project_DataLeaks
+# SOEN342_Project_DataLeaks: the MovieDates App
 
 ## Project Description
-Your Project description goes here
+A Dating App to connect with matches over a shared love of films!
 
 ## features
-Features of the platform
+- Match based on movie preferences, both films and genres.
+- Suggest a movie to watch with a match and do so in real time.
 
 ## Team members
 - Victor Vasconcelos @v-vasco
